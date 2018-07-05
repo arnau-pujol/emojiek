@@ -1,0 +1,29 @@
+{
+  "name": "emojiek",
+  "description": "A simple emoji seeker created to learn React",
+  "version": "0.1.0",
+  "author": {
+    "name": "Arnau Pujol",
+    "email": "hi@arnaupujol.com",
+    "url": "http://www.arnaupujol.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnau-pujol/emojiek.git"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.1",
+    "install": "^0.12.1",
+    "npm": "^6.1.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
